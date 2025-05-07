@@ -1,5 +1,3 @@
-# Hiring-process-analytics
-Excel based analysis of hiring trends and insight for an MNC
 # Hiring Process Analytics
 
 This project presents a comprehensive analysis of the hiring trends within a multinational company (MNC), using a dataset that simulates the role of a Data Analyst at Google. The analysis was performed using **Microsoft Excel 365**.
